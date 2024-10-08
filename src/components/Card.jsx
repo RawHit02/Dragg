@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 
 
 
-function Card({ data, reference }) {
+function card({ data, reference }) {
   const [isCalling, setIsCalling] = useState(false);
   const [isWhatsAppActive, setIsWhatsAppActive] = useState(false); // New state for WhatsApp action
 
