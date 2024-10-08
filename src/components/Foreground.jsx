@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import Card from "./Card";
+import Card from "./card";
 
 import { GiCaptainHatProfile } from "react-icons/gi";
 import { GiPlagueDoctorProfile } from "react-icons/gi";
